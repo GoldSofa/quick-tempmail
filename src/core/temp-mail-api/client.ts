@@ -135,7 +135,7 @@ class TempMailClient {
 
     async createAddress(): Promise<void> {
         const name = Math.random().toString(36).substring(2, 10);
-        const domain = 'nzsmcguide.com';
+        const domain = 'quicktempmails.com';
 
         try {
             const res = await this.fetch<any>('/api/new_address', {
