@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "title": "价格",
+    "description": "选择方案，立即开始"
+  },
+  "pricing": {
+    "id": "pricing",
+    "sr_only_title": "TempMail 价格表",
+    "title": "价格",
+    "description": "选择最适合您的方案。",
+    "groups": [
+      {
+        "name": "monthly",
+        "title": "包月",
+        "is_featured": false
+      },
+      {
+        "name": "yearly",
+        "title": "包年",
+        "is_featured": true,
+        "label": "立省约 29%"
+      }
+    ],
+    "items": [
+      {
+        "title": "免费版",
+        "description": "基础临时邮箱服务。",
+        "features_title": "包含",
+        "features": [
+          "公共域名",
+          "同时保存多达 2 个地址",
+          "网站含赞助广告",
+          "不支持云端历史同步"
+        ],
+        "interval": "month",
+        "amount": 0,
+        "currency": "USD",
+        "price": "$0",
+        "original_price": "",
+        "unit": "/ 月",
+        "is_featured": false,
+        "tip": "永久免费。",
+        "button": {
+          "title": "立即开始",
+          "url": "/",
+          "icon": "Zap"
+        },
+        "product_id": "free-monthly",
+        "product_name": "免费版",
+        "credits": 0,
+        "valid_days": 30,
+        "group": "monthly",
+        "plan_name": "免费版"
+      },
+      {
+        "title": "高级版",
+        "description": "解锁全部功能与隐私保护。",
+        "label": "超值",
+        "features_title": "包含免费版功能，此外",
+        "features": [
+          "专属高级域名",
+          "同时保存多达 10 个地址",
+          "Web 浏览器内无缝使用",
+          "增强的隐私与安全",
+          "无广告 & 高级支持",
+          "Inbox in extensions",
+          "延长邮件存储时间",
+          "历史记录保存",
+          "云端历史同步"
+        ],
+        "interval": "month",
+        "amount": 459,
+        "currency": "USD",
+        "price": "$4.59",
+        "original_price": "",
+        "unit": "/ 月",
+        "is_featured": true,
+        "tip": "随时取消。",
+        "button": {
+          "title": "立即订阅",
+          "url": "/#pricing",
+          "icon": "RBFlashlightFill"
+        },
+        "product_id": "premium-monthly",
+        "product_name": "高级版包月",
+        "payment_product_id": "prod_67vY6OQrqTU7qAnT4gRmey",
+        "credits": 0,
+        "valid_days": 30,
+        "group": "monthly",
+        "plan_name": "高级版"
+      },
+      {
+        "title": "免费版",
+        "description": "基础临时邮箱服务。",
+        "features_title": "包含",
+        "features": [
+          "公共域名",
+          "同时保存多达 2 个地址",
+          "网站含赞助广告",
+          "不支持云端历史同步"
+        ],
+        "interval": "year",
+        "amount": 0,
+        "currency": "USD",
+        "price": "$0",
+        "original_price": "",
+        "unit": "/ 月",
+        "is_featured": false,
+        "tip": "永久免费。",
+        "button": {
+          "title": "立即开始",
+          "url": "/",
+          "icon": "Zap"
+        },
+        "product_id": "free-yearly",
+        "product_name": "免费版",
+        "credits": 0,
+        "valid_days": 365,
+        "group": "yearly",
+        "plan_name": "免费版"
+      },
+      {
+        "title": "高级版",
+        "description": "解锁全部功能与隐私保护。",
+        "label": "超值",
+        "features_title": "包含免费版功能，此外",
+        "features": [
+          "专属高级域名",
+          "同时保存多达 10 个地址(云端同步)",
+          "Web 浏览器内无缝使用",
+          "增强的隐私与安全",
+          "无广告 & 高级支持",
+          "Inbox in extensions",
+          "延长邮件存储时间",
+          "历史记录保存",
+          "云端历史同步(换电脑、换设备均同步)"
+        ],
+        "interval": "year",
+        "amount": 3900,
+        "currency": "USD",
+        "price": "$39.00",
+        "original_price": "$55.08",
+        "unit": "/ 年",
+        "is_featured": true,
+        "tip": "按年订阅立省约 29%。",
+        "button": {
+          "title": "立即订阅",
+          "url": "/#pricing",
+          "icon": "RBFlashlightFill"
+        },
+        "product_id": "premium-yearly",
+        "product_name": "高级版包年",
+        "payment_product_id": "prod_67vY6OQrqTU7qAnT4gRmey",
+        "credits": 0,
+        "valid_days": 365,
+        "group": "yearly",
+        "plan_name": "高级版"
+      }
+    ]
+  },
+  "page": {
+    "current_plan": "当前方案",
+    "processing": "处理中"
+  }
+}

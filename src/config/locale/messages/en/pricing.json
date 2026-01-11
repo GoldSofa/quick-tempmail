@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "title": "Pricing",
+    "description": "Start with a plan"
+  },
+  "pricing": {
+    "id": "pricing",
+    "sr_only_title": "TempMail Pricing",
+    "title": "Pricing",
+    "description": "Choose the perfect plan for your needs.",
+    "groups": [
+      {
+        "name": "monthly",
+        "title": "Monthly",
+        "is_featured": false
+      },
+      {
+        "name": "yearly",
+        "title": "Annually",
+        "is_featured": true,
+        "label": "Save ~29%"
+      }
+    ],
+    "items": [
+      {
+        "title": "Free",
+        "description": "Basic temporary email service.",
+        "features_title": "Includes",
+        "features": [
+          "Public Domain",
+          "Up to 2 addresses can be saved simultaneously",
+          "Website has sponsored advertisements",
+          "No cloud history synchronization"
+        ],
+        "interval": "month",
+        "amount": 0,
+        "currency": "USD",
+        "price": "$0",
+        "original_price": "",
+        "unit": "/ month",
+        "is_featured": false,
+        "tip": "Forever free.",
+        "button": {
+          "title": "Get Started",
+          "url": "/",
+          "icon": "Zap"
+        },
+        "product_id": "free-monthly",
+        "product_name": "Free Plan",
+        "credits": 0,
+        "valid_days": 30,
+        "group": "monthly",
+        "plan_name": "Free"
+      },
+      {
+        "title": "Premium",
+        "description": "Unlock full power and privacy.",
+        "label": "Best Value",
+        "features_title": "Everything in Free, plus",
+        "features": [
+          "Dedicated premium domains",
+          "Up to 10 addresses at the same time( cloud sync)",
+          "Seamless functionality inside web browser",
+          "Enhanced privacy and security",
+          "No ads. Premium support",
+          "Inbox in extensions",
+          "Extended message storage",
+          "History records",
+          "Cloud history sync(Cross device sync)"
+        ],
+        "interval": "month",
+        "amount": 459,
+        "currency": "USD",
+        "price": "$4.59",
+        "original_price": "",
+        "unit": "/ month",
+        "is_featured": true,
+        "tip": "Cancel anytime.",
+        "button": {
+          "title": "Subscribe",
+          "url": "/#pricing",
+          "icon": "RBFlashlightFill"
+        },
+        "product_id": "premium-monthly",
+        "product_name": "Premium Plan Monthly",
+        "payment_product_id": "prod_67vY6OQrqTU7qAnT4gRmey",
+        "credits": 0,
+        "valid_days": 30,
+        "group": "monthly",
+        "plan_name": "Premium"
+      },
+      {
+        "title": "Free",
+        "description": "Basic temporary email service.",
+        "features_title": "Includes",
+        "features": [
+          "Public Domain",
+          "Up to 2 addresses can be saved simultaneously",
+          "Website has sponsored advertisements",
+          "No cloud history synchronization"
+        ],
+        "interval": "year",
+        "amount": 0,
+        "currency": "USD",
+        "price": "$0",
+        "original_price": "",
+        "unit": "/ month",
+        "is_featured": false,
+        "tip": "Forever free.",
+        "button": {
+          "title": "Get Started",
+          "url": "/",
+          "icon": "Zap"
+        },
+        "product_id": "free-yearly",
+        "product_name": "Free Plan",
+        "credits": 0,
+        "valid_days": 365,
+        "group": "yearly",
+        "plan_name": "Free"
+      },
+      {
+        "title": "Premium",
+        "description": "Unlock full power and privacy.",
+        "label": "Best Value",
+        "features_title": "Everything in Free, plus",
+        "features": [
+          "Dedicated premium domains",
+          "Up to 10 addresses at the same time",
+          "Seamless functionality inside web browser",
+          "Enhanced privacy and security",
+          "No ads. Premium support",
+          "Inbox in extensions",
+          "Extended message storage",
+          "History records",
+          "Cloud history sync"
+        ],
+        "interval": "year",
+        "amount": 3900,
+        "currency": "USD",
+        "price": "$39.00",
+        "original_price": "$55.08",
+        "unit": "/ year",
+        "is_featured": true,
+        "tip": "Save ~29% with annual billing.",
+        "button": {
+          "title": "Subscribe",
+          "url": "/#pricing",
+          "icon": "RBFlashlightFill"
+        },
+        "product_id": "premium-yearly",
+        "product_name": "Premium Plan Yearly",
+        "payment_product_id": "prod_67vY6OQrqTU7qAnT4gRmey",
+        "credits": 0,
+        "valid_days": 365,
+        "group": "yearly",
+        "plan_name": "Premium"
+      }
+    ]
+  },
+  "page": {
+    "current_plan": "Current Plan",
+    "processing": "Processing"
+  }
+}
